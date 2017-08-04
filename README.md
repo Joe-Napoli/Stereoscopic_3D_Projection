@@ -4,7 +4,7 @@ It was created by Joe Napoli for [Visikol, Inc](https://visikol.com/).
 
 # Installation
 The jar is ready for installation on ImageJ and Fiji. It requires Java 8.0 or greater, and can be downloaded from here or installed from Fiji's plugin installer.
-The source is attached both to the jar file and on its own for easy reference.
+The source is attached to the jar file and here on its own for easy reference.
 For further documentation, see the official [Stereoscopic 3D Projection](https://imagej.net/Stereoscopic_3D_Projection) wiki page.
 
 # Use

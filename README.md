@@ -1,4 +1,4 @@
-# Stereoscopic_3D_Projection
+# Stereoscopic 3D Projection
 Creates 3-D anaglyph and Google Cardboard compatible projections from image stacks in ImageJ.
 
 # Installation

@@ -1,7 +1,7 @@
 # Stereoscopic_3D_Projection
 Creates 3-D anaglyph and Google Cardboard compatible projections from image stacks in ImageJ.
 
-# Installing
+# Installation
 The jar is ready for installation on ImageJ and Fiji. It requires Java 8.0 or greater, and can be downloaded from here or installed from Fiji's plugin installer.
 The source is attached both to the jar file and on its own for easy reference.
 

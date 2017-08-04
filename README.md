@@ -3,7 +3,7 @@ This ImageJ plugin allows users to create 3-D anaglyph and Google Cardboard comp
 It was created by Joe Napoli for [Visikol, Inc](https://visikol.com/).
 
 # Installation
-The jar is ready for installation on ImageJ and Fiji. It requires Java 8.0 or greater, and can be downloaded from here or installed from Fiji's plugin installer.
+The jar is ready for installation on ImageJ and Fiji. It requires Java 8.0 or greater, and can be downloaded from here into the plugins directory or installed from Fiji's plugin installer.
 The source is attached to the jar file and here on its own for easy reference.
 For further documentation, see the official [Stereoscopic 3D Projection](https://imagej.net/Stereoscopic_3D_Projection) wiki page.
 

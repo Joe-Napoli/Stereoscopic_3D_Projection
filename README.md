@@ -17,3 +17,19 @@ To create a new projection:
     - If an anaglyph projection is attempted on a colored image stack, a prompt to convert the image stack to grayscale will appear. Color is incompatible with the lookup tables used in the anaglyph projection, and so the stack must be converted to grayscale to continue.
 5. Select "Ok!"
 
+# Examples
+
+Below is an anaglyph projection was created from the T1 Head sample included within ImageJ using information pulled straight from the sample's metadata.
+
+![Anaglyph Example 1](https://raw.githubusercontent.com/Joe-Napoli/Stereoscopic_3D_Projection/master/Sample%20Images/AnaglyphExample1.jpg)
+![Anaglyph Product](https://raw.githubusercontent.com/Joe-Napoli/Stereoscopic_3D_Projection/master/Sample%20Images/AnaglyphExample2.jpg)
+
+Like the anaglyph projection above, this Google Cardboard compatible projection was created using information included within the metadata of an ImageJ sample. Here, however, a fly brain is the subject.
+
+![Cardboard Example 1](https://raw.githubusercontent.com/Joe-Napoli/Stereoscopic_3D_Projection/master/Sample%20Images/CardboardExample1.jpg)
+![Cardboard Product](https://raw.githubusercontent.com/Joe-Napoli/Stereoscopic_3D_Projection/master/Sample%20Images/CardboardExample2.jpg)
+
+Finally, a projection compatible with Google Cardboard and similar viewers was created from the sample bat cochlea included in ImageJ. 
+
+![Bat Cochlea Volume Projection](https://raw.githubusercontent.com/Joe-Napoli/Stereoscopic_3D_Projection/master/Sample%20Images/BatProduct.gif)
+ 

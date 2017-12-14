@@ -1,6 +1,6 @@
 # Stereoscopic 3D Projection
 This ImageJ plugin allows users to create 3-D anaglyph and Google Cardboard compatible projections from image stacks.
-It was created by Joe Napoli for [Visikol, Inc](https://visikol.com/).
+It was created by Joe Napoli for [Visikol, Inc](https://visikol.com/news/2017/9/5/teaming-up-with-young-talent-to-disrupt-bio-imaging).
 
 # Installation
 The jar is ready for installation on ImageJ and Fiji. It requires Java 8.0 or greater, and can be downloaded from here into the plugins directory or installed from Fiji's plugin installer.
